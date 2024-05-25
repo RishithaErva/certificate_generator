@@ -1,0 +1,11 @@
+{
+  "template_image_path": "${TEMPLATE_IMAGE_PATH}",
+  "heading": "Certificate of Completion",
+  "certificate_about": "This certifies that [certificant_name] has successfully completed the course",
+  "csv_file_path": "${CSV_FILE_PATH}",
+  "date": "10-05-2024",
+  "company_name": "Reactify learning",
+  "certificate_provider_name": "Reactify",
+  "email_address": "ervarishitha@gmail.com",
+  "num_certificates": 5
+}
